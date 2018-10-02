@@ -1,17 +1,15 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# Objetos Inteligentes Conectados 1º sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05K11
+## Projeto: RFID Access
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Jefferson Rosendo Frade - 31643493
+* Ricardo dos Reis Silva - 41534549
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+O projeto será desenvolvido em Arduino e fará controle de ponto (Basicamente o horário de entrada e saída de um funcionário) a leitura de um cartão ou um chaveiro (RFID), fará o envio desses dados via Wi-Fi, para algum computador e o computador efetuará o registro do horário em que o cartão foi "batido".
 
 _______________________________________
 Obs:
