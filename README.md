@@ -1,4 +1,4 @@
-# Objetos Inteligentes Conectados 1º sem. 2018
+# Objetos Inteligentes Conectados 2º sem. 2018
 
 ## Turma 05K11
 ## Projeto: RFID Access
