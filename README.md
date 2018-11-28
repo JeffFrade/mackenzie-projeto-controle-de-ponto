@@ -6,14 +6,8 @@
 
 * Jefferson Rosendo Frade - 31643493
 * Ricardo dos Reis Silva - 41534549
+* Allyson de Jesus Alvarenga - 31527736
 
 ## Descrição resumida do projeto
 
-O projeto será desenvolvido em Arduino e fará controle de ponto (Basicamente o horário de entrada e saída de um funcionário) a leitura de um cartão ou um chaveiro (RFID), fará o envio desses dados via Wi-Fi, para algum computador e o computador efetuará o registro do horário em que o cartão foi "batido".
-
-_______________________________________
-Obs:
-
-`src/` deve conter os códigos desenvolvidos
-
-`doc/` documentação do projeto
+O projeto será desenvolvido em Arduino e fará leitura de um RFID, caso o cartão seja passado o "sistema" fará login, tudo baseado no piscar de um led (Função temporária), caso o led pisque o "sistema" abre, caso passe o cartão novamente ele para de piscar o "sistema" faz logout.
