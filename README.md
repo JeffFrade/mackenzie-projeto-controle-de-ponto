@@ -7,6 +7,7 @@
 * Jefferson Rosendo Frade - 31643493
 * Ricardo dos Reis Silva - 41534549
 * Allyson de Jesus Alvarenga - 31527736
+* Esther Guerra - 41604687
 
 ## Descrição resumida do projeto
 
